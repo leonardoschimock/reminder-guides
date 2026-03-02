@@ -22,13 +22,23 @@ If it helps someone else, even better 🚀
 
 Think of this as a developer’s second brain.
 
+<details>
+    <summary>Read more</summary>
+
+
 ## Notes from the .md file itself:
+
+
+
 
 ### Headings:
     "#" title H1
     "##" title H2
     "###" title H3
     "######" title H6
+
+
+
 
 ### Text Styles:
     **bold**
@@ -41,6 +51,9 @@ Think of this as a developer’s second brain.
 ***bold and italic*** <br>
 ~~strikethrough text~~ <br>
 `código inline` <br>
+
+
+
 
 ### Lists:
     Unordened list:
@@ -59,6 +72,9 @@ Think of this as a developer’s second brain.
    - First Topic
      - First Subtopic
 
+
+
+
 ### Links:
     [Link text](https://link.com)
 [GitHub](https://github.com)
@@ -66,10 +82,16 @@ Think of this as a developer’s second brain.
 #### Links with HTML:
     <a href = "github.com" target = _blank>GitHub</a>
 
+
+
+
 ### Images:
     ![Alternate text](image link)
     ![Image](https://link.com/image.png)
     [![Text](image link)](destiny link)
+
+
+
 
 ### Code blocks
     ``` code here ```
@@ -81,6 +103,9 @@ public class Main {
 }
 ```
 
+
+
+
 ### Tables
     | Name | Age | Course |
     |:------|:-------:|-------:|
@@ -90,32 +115,53 @@ public class Main {
 |:------|:-----:|------------:|
 | Leo   |  20   |  Soft. Eng. |
 
+
+
+
 ### Quotes:
     >That's a quote
     >>That´s a quote inside a quote
 >That's a quote
 >>That´s a quote inside a quote
 
+
+
+
 ### Horizontal Lines:
     --- or ***
+
+
+
 
 ### Badges:
     https://shields.io
 
+
+
+
 ### Intern Links:
     [go to the beginning](#-Dev Notes Repository)
 [go to the beginning](#dev-notes-repository)
+
+
+
 
 ### HTML inside the README:
     <div align = "center">
         <h1> My Project </h1>
     </div>
 
+
+
+
 ### Dropdown:
     <details>
     <summary>Read more</summary>
         Hide content here
     </details>
+
+
+
 
 ### Commentary:
     <!-- This is invisible -->
@@ -125,3 +171,4 @@ public class Main {
         <h1> Thank you for reading! </h1>
     </div>
 
+</details>
