@@ -132,7 +132,8 @@ git clone https://github.com/user/repository.git
 ### Remove files:
     git rm file - remove file from git
     git rm -cached file - remove from git but keep locally
-    Remove-Item -Recurse -Force .git -> removes the connetion with github (we can use that when we change posters adress, to create a git repository again with the right adress)
+    Remove-Item -Recurse -Force .git -> removes the connetion with github (we can use that when we change posters adress, 
+                        to create a git repository again with the right adress)
     git push -f origin main -> forces git to commit our changes BUT we can lose archives that already are in github or git
 
 
