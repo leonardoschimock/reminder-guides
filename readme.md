@@ -10,7 +10,7 @@ To serve as a memory extension for everyday development tasks.
 
 There is no application, no production code, and no final product here — just organized documentation for learning and quick consultation.
 
-If it helps someone else, even better 🚀
+If it helps someone else, even better...
 
 ## What you might find here:
 - Git commands and workflows
